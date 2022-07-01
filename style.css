@@ -35,7 +35,7 @@ html {
       border-radius: 
       42% 56% 72% 28% / 42% 42% 56% 48%;
       background: #8f44fd
-      url(imgs/pattern.jpg);
+      url(pattern.jpg);
       background-size: cover;
       background-position: center;
       animation: morph 3.75s linear infinite;
